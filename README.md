@@ -1,6 +1,7 @@
 # Sales Analytics Case Study
 
 ## Sales Growth, Margin Quality and Commercial Decision-Making
+![Sales Analytics portfolio cover](Ehsaan-Khan-Sales-Analytics-Cover.png)
 
 This independent portfolio project examines whether revenue growth is translating into profitable growth—and where pricing, promotion or returns activity should change.
 
